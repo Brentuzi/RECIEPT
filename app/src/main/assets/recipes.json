@@ -1,0 +1,68 @@
+{
+  "recipes": [
+    {
+      "title": "Борщ",
+      "image": "https://cdn.lifehacker.ru/wp-content/uploads/2014/12/ob-05_1568611223-640x320.jpg",
+      "url": "https://lifehacker.ru/classic-borshcht/",
+      "description": "В Киевской Руси борщ готовили из съедобных листьев борщевика — отсюда название. Позднее стали варить со свёклой, а с XIX века добавлять картошку.",
+      "servings": 4,
+      "dietLabel": "Low-Medium"
+    },
+    {
+      "title": "Сало",
+      "image": "https://vkusvill.ru/upload/resize/615931/615931_1200x600x70_c.webp",
+      "url": "https://vkusvill.ru/media/journal/kak-zasolit-salo-doma-klassicheskiy-retsept-varyenoe-salo-i-domashnyaya-buzhenina.html",
+      "description": "Домашняя грудинка — это и вкусно, и удобно. В любой момент можно отварить рассыпчатый картофель или нарезать свежего ржаного хлеба и подать с тонкими ломтиками сала только-только из морозилки.",
+      "servings": 4,
+      "dietLabel": "Low-Medium"
+    },
+    {
+      "title": "Пад тай с креветками",
+      "image": "https://eda.ru/img/eda/c620x415/s1.eda.ru/StaticContent/Photos/110804134510/131114001352/p_O.jpg.webp",
+      "url": "https://eda.ru/recepty/osnovnye-blyuda/pad-taj-s-krevetkami-40601",
+      "description": " ",
+      "servings": 4,
+      "dietLabel": "Low-Medium"
+    },
+    {
+      "title": "Брауни",
+      "image": "https://eda.ru/img/eda/c434x295/s1.eda.ru/StaticContent/Photos/131113183908/1311271747010/p_O.jpg.webp",
+      "url": "https://eda.ru/recepty/vypechka-deserty/brauni-brownie-20955",
+      "description": "брауни — был придуман в 1893 году на кухне легендарного отеля Palmer House в Чикаго. Этот пирог там пекут",
+      "servings": 4,
+      "dietLabel": "Medium"
+    },
+    {
+      "title": "Сырный суп",
+      "image": "https://eda.ru/img/eda/c620x415/s1.eda.ru/StaticContent/Photos/120131083619/170816150250/p_O.jpg.webp",
+      "url": "https://eda.ru/recepty/supy/sirnij-sup-po-francuzski-s-kuricej-32614",
+      "description": "Сырный суп",
+      "servings": 4,
+      "dietLabel": "Hard"
+    },
+    {
+      "title": "Банановые панкейки",
+      "image": "https://eda.ru/img/eda/c434x295/s1.eda.ru/StaticContent/Photos/110816122017/170315174748/p_O.png.webp",
+      "url": "https://eda.ru/recepty/zavtraki/bananovie-pankejki-35975",
+      "description": "Банановые панкейки — не менее традиционный вариант американских блинчиков (или оладий, кто как больше привык), обязательный и очень вкусный элемент американского завтрака. Готовить их следует на сухой сковороде. Чтобы процесс приготовления происходил быстрее, многие хозяйки покупают специальные",
+      "servings": 4,
+      "dietLabel": "Low"
+    },
+    {
+      "title": "Оливье по-советски",
+      "image": "https://eda.ru/img/eda/c285x285/s1.eda.ru/StaticContent/Photos/1/04/1047254073dd413b8210b00d7958fc3d.jpg",
+      "url": "https://eda.ru/recepty/salaty/olive-po-sovetski-20471",
+      "description": "Первым опубликовал рецепт оливье журнал «Наша пища» в 1894 году. Та версия предполагала наличие в составе рябчиков и каперсов. В следующих вариантах (1913 и 1984 годов) появляются салат-латук и соус соя-кабуль (пикантная заправка на основе мясного бульона, уксуса и различных овощей и корен",
+      "servings": 4,
+      "dietLabel": "Low"
+    },
+    {
+      "title": "Спагетти карбонара со сливками",
+      "image": "https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/a/f1/af154745432140b88b5ebc35afed7fd4.jpg.webp",
+      "url": "https://eda.ru/recepty/pasta-picca/spagetti-karbonara-s-krasnym-lukom-17614",
+      "description": "Спагетти карбонара — хоть блюдо и итальянское, оно имеет хорошую популярность во всем мире, в том числе и у нас. Изобретенная когда-то простыми шахтерами, эта простая и сытная паста завоевала сердца и желудки многих. Для карбонары нужно выбирать такие ломтики бекона, где больше мяса и меньше жира. Если его будет много, то, вытапливаясь при готовке, он сделает пасту",
+      "servings": 4,
+      "dietLabel": "Low"
+    }
+  ]
+}
